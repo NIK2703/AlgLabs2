@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e6c9624-4808-4363-90f6-76366ee24bbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ye8AonUjleEUkONLMom7vfj90W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AlgLabs2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6c9624-4808-4363-90f6-76366ee24bbb" name="Default Changelist" comment="" />
+      <created>1583291559027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583291559027</updated>
+      <workItem from="1583291564061" duration="4670000" />
+      <workItem from="1583312222731" duration="878000" />
+      <workItem from="1583313182564" duration="5191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="92" width="376" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1583313525829">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="491" y="92" width="376" height="562" key="#com.intellij.ide.util.MemberChooser/0.0.1366.744@0.0.1366.744" timestamp="1583313525829" />
+    <state width="1320" height="221" key="GridCell.Tab.0.bottom" timestamp="1583318377540">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.bottom/0.0.1366.744@0.0.1366.744" timestamp="1583318377540" />
+    <state width="1320" height="221" key="GridCell.Tab.0.center" timestamp="1583318377539">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.center/0.0.1366.744@0.0.1366.744" timestamp="1583318377539" />
+    <state width="1320" height="221" key="GridCell.Tab.0.left" timestamp="1583318377538">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.left/0.0.1366.744@0.0.1366.744" timestamp="1583318377538" />
+    <state width="1320" height="221" key="GridCell.Tab.0.right" timestamp="1583318377539">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.0.right/0.0.1366.744@0.0.1366.744" timestamp="1583318377539" />
+    <state width="1320" height="221" key="GridCell.Tab.1.bottom" timestamp="1583318377543">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.1.bottom/0.0.1366.744@0.0.1366.744" timestamp="1583318377543" />
+    <state width="1320" height="221" key="GridCell.Tab.1.center" timestamp="1583318377541">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.1.center/0.0.1366.744@0.0.1366.744" timestamp="1583318377541" />
+    <state width="1320" height="221" key="GridCell.Tab.1.left" timestamp="1583318377540">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.1.left/0.0.1366.744@0.0.1366.744" timestamp="1583318377540" />
+    <state width="1320" height="221" key="GridCell.Tab.1.right" timestamp="1583318377542">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="1320" height="221" key="GridCell.Tab.1.right/0.0.1366.744@0.0.1366.744" timestamp="1583318377542" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackpackTask.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
