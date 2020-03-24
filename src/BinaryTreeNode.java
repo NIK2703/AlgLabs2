@@ -5,7 +5,11 @@ public class BinaryTreeNode<K extends Comparable, V> {
     private K key;
     private V value;
 
-    public int getHeight(int currentHeight) {
+    public int getHeight() {
+        return getHeight(0);
+    }
+
+    private int getHeight(int currentHeight) {
         if (left != null && right != null) {
             return Math.max(left.getHeight(currentHeight + 1), right.getHeight(currentHeight + 1));
         }
@@ -17,6 +21,19 @@ public class BinaryTreeNode<K extends Comparable, V> {
         }
         else {
             return currentHeight;
+        }
+    }
+
+    public int getRemoteness() {
+        return getRemoteness(0);
+    }
+
+    private int getRemoteness(int currentRemoteness) {
+        if (parent != null) {
+            return parent.getRemoteness(currentRemoteness + 1);
+        }
+        else {
+            return currentRemoteness;
         }
     }
 
