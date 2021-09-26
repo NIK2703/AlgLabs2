@@ -27,6 +27,9 @@ public class Main {
         wishList.put("Тетрадь", 5);
         wishList.put("Ручка", 3);
         wishList.put("Карандаш", 4);
+        wishList.put("Резинка", 1);
+        wishList.put("Транспортир", 1);
+        wishList.put("Линейка", 1);
         wishList.put("Циркуль", 1);
 
         //Прейкурант цен
@@ -39,10 +42,13 @@ public class Main {
         priceListItems.add(new PriceListItem("Тетрадь", 30F));
         priceListItems.add(new PriceListItem("Карандаш", 20F));
         priceListItems.add(new PriceListItem("Тетрадь", 40F));
+        priceListItems.add(new PriceListItem("Резинка", 15F));
+        priceListItems.add(new PriceListItem("Транпортир", 60F));
+        priceListItems.add(new PriceListItem("Линейка", 30F));
         priceListItems.add(new PriceListItem("Циркуль", 100F));
 
         ShoppingListGenerator slg = new ShoppingListGenerator();
-        Map<String, Integer> shoppingList = slg.getMaxShoppingList(wishList, priceListItems, 150F);
+        Map<String, Integer> shoppingList = slg.getMaxShoppingList(wishList, priceListItems, 250F);
         System.out.println(shoppingList);
 
     }

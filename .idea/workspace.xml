@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e6c9624-4808-4363-90f6-76366ee24bbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PriceListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShoppingListGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgLabs2/META-INF/AlgLabs2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgLabs2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgLabs2/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShoppingListGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShoppingListGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +94,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ShoppingListGenerator.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
+          <line>21</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ShoppingListGenerator.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="2" />
+          <line>36</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
